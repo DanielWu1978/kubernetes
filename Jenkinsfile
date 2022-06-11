@@ -1,7 +1,7 @@
 pipeline {
   agent any
   stages {
-    stage('tes') {
+    stage('tes11') {
       parallel {
         stage('tes') {
           steps {
